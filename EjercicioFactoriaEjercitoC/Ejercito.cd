@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EjercicioFactoriaEjercitoC.Ejercito.EjercitoNuevo">
+    <Position X="6.5" Y="2.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAgAAAAAAIBAAAAAAABAAAAEQIUiAAABAA=</HashCode>
+      <FileName>Ejercito\EjercitoNuevo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EjercicioFactoriaEjercitoC.GrupoDeEjercitos.GrupoEjercitos">
+    <Position X="9" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAQAA=</HashCode>
+      <FileName>GrupoDeEjercitos\GrupoEjercitos.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EjercicioFactoriaEjercitoC.Unidades.Unidad">
+    <Position X="1" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAQAAAAAAAAAAAQQACAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Unidades\Unidad.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="EjercicioFactoriaEjercitoC.Menu">
+    <Position X="11.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AEAJAAAAAIYAAAAAAAAAAAAAAAABAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="EjercicioFactoriaEjercitoC.Ejercito.IEjercito">
+    <Position X="4.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAIBAAAAAAABAAAAEQIUiAAABAA=</HashCode>
+      <FileName>Ejercito\IEjercito.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="EjercicioFactoriaEjercitoC.Ejercito.Ipresupuesto">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ejercito\IPresupuesto.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="EjercicioFactoriaEjercitoC.GrupoDeEjercitos.IGrupo">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAQAA=</HashCode>
+      <FileName>GrupoDeEjercitos\IGrupo.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="EjercicioFactoriaEjercitoC.Unidades.ICosteable">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Unidades\ICosteable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="EjercicioFactoriaEjercitoC.Unidades.IMilitarizable">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAQAAAAAAAAAAAQAACAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Unidades\IMilitarizable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
